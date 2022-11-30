@@ -12,5 +12,12 @@
   "author": {
     "name": "JMR",
     "url": "https://tesseract.in/"
-  }
+  },
+  "samples": [
+    {
+      "displayName": "Custom Binding Composite",
+      "description": "Shows how to implement a custom composite binding.",
+      "path": "JMRTools~/CameraProperties"
+    }
+  ]
 }
