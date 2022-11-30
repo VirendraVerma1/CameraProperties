@@ -1,0 +1,16 @@
+{
+  "name": "com.jmr.cameraprop",
+  "version": "1.0.0",
+  "displayName": "JMR Camera Properties",
+  "description": "This package lets you to add the skybox, and can increase, decrease the far clip plane of the camera",
+  "unity": "2019.4",
+  "keywords": [
+    "JMR",
+    "Camera",
+	"Skybox"
+  ],
+  "author": {
+    "name": "JMR",
+    "url": "https://tesseract.in/"
+  }
+}
