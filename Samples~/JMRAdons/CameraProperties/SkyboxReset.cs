@@ -21,7 +21,6 @@ public class SkyboxReset : MonoBehaviour
 
         public void Reset()
         {
-		print("reset");
             if (apptype == ApplicationType.VR)
             {
                 GameObject LeftCamera = GameObject.Find("Left");
