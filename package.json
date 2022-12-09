@@ -19,19 +19,15 @@
   },
   "samples": [
     {
-      "displayName": "Racast handler",
+      "displayName": "Camera Properties",
       "description": "Shows how to implement a custom composite binding.",
-      "path": "Runtime/CameraProperties/RaycastHandler"
+      "path": "Samples~/CameraProperties"
     }
 	,{
       "displayName": "Skybox Reset",
       "description": "Shows how to implement a custom composite binding.",
-      "path": "Runtime/CameraProperties/SkyboxReset"
+      "path": "Samples~/CameraProperties/SkyboxReset"
     }
-	,{
-      "displayName": "Skybox Reset",
-      "description": "Shows how to implement a custom composite binding.",
-      "path": "Runtime/CameraProperties/Prefab/CameraProperties"
-    }
+	
   ]
 }
