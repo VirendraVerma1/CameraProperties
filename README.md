@@ -14,19 +14,8 @@ Tutorials on how to use the Input System are available as part of:
 - [Unity Learn - Using the Input System in Unity](https://learn.unity.com/project/using-the-input-system-in-unity) - Video tutorials on how to use the Input System in Unity.
 - [Warriors Demo Project](https://github.com/UnityTechnologies/InputSystem_Warriors) - A demo project illustrating a wide range of tools and features in the Input System, including local multi-player using different input methods.
 - Example projects part of this repository:
-    - [Custom Composite](Assets/Samples/CustomComposite) - Shows how to implement and register a custom `InputBindingComposite`.
-    - [Custom Device](Assets/Samples/CustomDevice) - Demonstrates how to add and author a custom device.
-    - [Custom Device Usages](Assets/Samples/CustomDeviceUsages) - An example of how to tag devices with custom "usages" and how to bind actions specifically to devices with only those usages.
-    - [Gamepad Mouse Cursor](Assets/Samples/GamepadMouseCursor) - An example of UI pointer navigation driven from gamepad input.
-    - [In-game Hints](Assets/Samples/InGameHints) - Illustrates how to display text in the UI that involves action bindings as well as object interaction.
-    - [Input Recorder](Assets/Samples/InputRecorder) - Demonstrates how to use [`InputEventTrace`](https://docs.unity3d.com/Packages/com.unity.inputsystem@latest/index.html?subfolder=/api/UnityEngine.InputSystem.LowLevel.InputEventTrace.html) and [`InputRecorder`](./InputRecorder.cs).
-    - [On-screen Controls](Assets/Samples/OnScreenControls) - Demonstrates how to set up and use on-screen gamepad-like controls.
-    - [Rebinding UI](Assets/Samples/RebindingUI) - Demonstrates how to set up a rebinding UI to reconfigure bindings during run-time.
-    - [Simple Demo](Assets/Samples/SimpleDemo) - Shows how to set up a simple character controller using actions, action asset as well as using the `PlayerInput` component.
-    - [Simple Multiplayer](Assets/Samples/SimpleMultiplayer) - Demonstrates a basic split-screen local multiplayer setup where players can join by pressing buttons on the supported devices to join the game.
-    - [UI vs Game Input](Assets/Samples/UIvsGameInput) - Illustrates how to handle input and resolve ambiguities that arise when overlaying UI elements in the game-view.
-    - [Visualizers](Assets/Samples/Visualizers) - Provides various input data visualizations for common devices. 
-
+    - [CameraProperties](Assets/Samples/CameraProperties) - Shows how to implement and register a custom `InputBindingComposite`.
+    
 ## How to use a released versions of the package within a Unity project
 
 All released versions of the Input System package are available via the Unity Package Manager, see [`Input System Manual - Installation`](https://docs.unity3d.com/Packages/com.unity.inputsystem@latest/index.html?subfolder=/manual/Installation.html) for instructions how to fetch the package and compatible versions of samples and install them into your Unity project.
