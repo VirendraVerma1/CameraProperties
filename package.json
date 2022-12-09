@@ -13,6 +13,10 @@
     "name": "JMR",
     "url": "https://tesseract.in/"
   },
+  "repository": {
+    "url": "https://github.com/VirendraVerma1/CameraProperties.git",
+    "type": "git"
+  },
   "samples": [
     {
       "displayName": "Custom Binding Composite",
