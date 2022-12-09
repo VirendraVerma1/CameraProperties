@@ -1,13 +1,14 @@
 {
   "name": "com.jmr.cameraprop",
-  "version": "1.0.4",
-  "displayName": "JMR Camera Properties",
-  "description": "This package lets you to add the skybox, and can increase, decrease the far clip plane of the camera",
+  "version": "1.0.5",
+  "displayName": "JMR Add Ons",
+  "description": "This package lets you to add some addons",
   "unity": "2019.4",
   "keywords": [
     "JMR",
     "Camera",
-	"Skybox"
+	"Skybox",
+	"Controller"
   ],
   "author": {
     "name": "JMR",
@@ -24,9 +25,9 @@
       "path": "Samples~/JMRAdons/CameraProperties"
     }
 	,{
-      "displayName": "Controller",
+      "displayName": "Controller Properties",
       "description": "Shows how to implement a custom composite binding.",
-      "path": "Samples~/JMRAdons/Controller"
+      "path": "Samples~/JMRAdons/ControllerProperties"
     }
 	
   ]
