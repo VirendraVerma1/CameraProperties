@@ -1,6 +1,6 @@
 {
   "name": "com.jmr.cameraprop",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "displayName": "JMR Camera Properties",
   "description": "This package lets you to add the skybox, and can increase, decrease the far clip plane of the camera",
   "unity": "2019.4",
@@ -26,7 +26,7 @@
 	,{
       "displayName": "Skybox Reset",
       "description": "Shows how to implement a custom composite binding.",
-      "path": "Samples~/CameraProperties/SkyboxReset"
+      "path": "Samples~/Skybox"
     }
 	
   ]
