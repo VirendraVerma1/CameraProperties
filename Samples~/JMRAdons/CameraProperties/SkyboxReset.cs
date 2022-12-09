@@ -12,7 +12,7 @@ public class SkyboxReset : MonoBehaviour
         };
     
         public ApplicationType apptype = ApplicationType.VR;
-        public float far=300f;
+        public float far=1000f;
 
         private void Start()
         {
@@ -21,6 +21,7 @@ public class SkyboxReset : MonoBehaviour
 
         public void Reset()
         {
+		print("reset");
             if (apptype == ApplicationType.VR)
             {
                 GameObject LeftCamera = GameObject.Find("Left");
