@@ -19,9 +19,6 @@
       "com.jmr"
     ]
   }],
-  "dependencies": {
-    "com.jmr.cameraprop": "1.1.8"
-  },
   "author": {
     "name": "JMR",
     "url": "https://tesseract.in/"
