@@ -1,6 +1,6 @@
 {
   "name": "com.jmr.cameraprop",
-  "version": "1.1.7",
+  "version": "1.1.8",
   "displayName": "JMR Add Ons",
   "description": "This package lets you to add some addons",
   "unity": "2019.4",
@@ -20,7 +20,7 @@
     ]
   }],
   "dependencies": {
-    "com.jmr.cameraprop": "1.1.7"
+    "com.jmr.cameraprop": "1.1.8"
   },
   "author": {
     "name": "JMR",
