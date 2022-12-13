@@ -11,6 +11,17 @@
 	"Skybox",
 	"Controller"
   ],
+  "registry": "https://github.com/VirendraVerma1/CameraProperties.git",
+  "scopedRegistries": [{
+    "name": "My internal registry",
+    "url": "https://github.com/VirendraVerma1/CameraProperties.git",
+    "scopes": [
+      "com.jmr"
+    ]
+  }],
+  "dependencies": {
+    "com.jmr.cameraprop": "1.1.7"
+  },
   "author": {
     "name": "JMR",
     "url": "https://tesseract.in/"
