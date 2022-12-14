@@ -3,7 +3,7 @@
 Version : 1.1.11
 
 ## Whats new :-
--Camera Properties has been added
+-Camera Properties has been added \n
 -Raycast handle has been fixed
 
 ## Updated packages :-
