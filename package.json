@@ -1,6 +1,6 @@
 {
   "name": "com.jmr.cameraprop",
-  "version": "1.1.9",
+  "version": "1.1.10",
   "displayName": "JMR Add Ons",
   "description": "This package lets you to add some addons",
   "unity": "2019.4",
@@ -11,19 +11,9 @@
 	"Skybox",
 	"Controller"
   ],
-  "versions": {
-	"latest":"1.1.10"  
-  },
   "registry": "https://github.com/VirendraVerma1/CameraProperties.git",
-  "scopedRegistries": [{
-    "name": "My internal registry",
-    "url": "https://github.com/VirendraVerma1/CameraProperties.git",
-    "scopes": [
-      "com.jmr"
-    ]
-  }],
   "author": {
-    "name": "1.1.100",
+    "name": "JMR",
     "url": "https://tesseract.in/"
   },
   "repository": {
