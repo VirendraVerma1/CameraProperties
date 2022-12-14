@@ -11,6 +11,9 @@
 	"Skybox",
 	"Controller"
   ],
+  "versions": {
+	"latest":"1.1.10"  
+  },
   "registry": "https://github.com/VirendraVerma1/CameraProperties.git",
   "scopedRegistries": [{
     "name": "My internal registry",
