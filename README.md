@@ -4,7 +4,7 @@ Version : 1.1.11
 
 ## Whats new :-
 -Camera Properties has been added
--Raycash handle has been fixed
+-Raycast handle has been fixed
 
 ## Updated packages :-
 -Camera Properties
