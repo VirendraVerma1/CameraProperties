@@ -2,16 +2,16 @@
 
 Version : 1.1.11
 
-# Whats new :-
+## Whats new :-
 -Camera Properties has been added
 -Raycash handle has been fixed
 
-# Updated packages :-
+## Updated packages :-
 -Camera Properties
 
-# Added packages :-
+## Added packages :-
 -Leaderboard
 
 ```
-Note: Please update your package from the Package Manager -> JMR Add On's -> Samples
+Note : Please update your package from the Package Manager -> JMR Add On's -> Samples
 ```
