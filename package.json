@@ -1,6 +1,6 @@
 {
   "name": "com.jmr.cameraprop",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "displayName": "JMR Add Ons",
   "description": "This package lets you to add some addons",
   "unity": "2019.4",
@@ -42,16 +42,6 @@
       "displayName": "Headset Properties",
       "description": "Shows how to implement a custom composite binding.",
       "path": "Samples~/JMRAdons/HeadProperties"
-    },
-	{
-      "displayName": "Test",
-      "description": "Shows how to implement a custom composite binding.",
-      "path": "Samples~/JMRAdons/Test"
-    },
-	{
-      "displayName": "Test2",
-      "description": "Shows how to implement a custom composite binding.",
-      "path": "Samples~/JMRAdons/Test2"
     }
 	
   ]
