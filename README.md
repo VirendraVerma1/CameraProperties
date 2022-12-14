@@ -3,14 +3,14 @@
 Version : 1.1.11
 
 ## Whats new :-
--Camera Properties has been added \n
--Raycast handle has been fixed
+* Camera Properties has been added
+* Raycast handle has been fixed
 
 ## Updated packages :-
--Camera Properties
+* Camera Properties
 
 ## Added packages :-
--Leaderboard
+* Leaderboard
 
 ```
 Note : Please update your package from the Package Manager -> JMR Add On's -> Samples
