@@ -1,6 +1,6 @@
 # JMR ADON'S
 
-Version : 1.1.11
+Version : 1.1.15
 
 ## Whats new :-
 * Camera Properties has been added
