@@ -1,6 +1,6 @@
 {
   "name": "com.jmr.cameraprop",
-  "version": "1.1.17",
+  "version": "1.1.18",
   "displayName": "JMR Add Ons",
   "description": "This package lets you to add some addons",
   "unity": "2019.4",
@@ -20,6 +20,10 @@
     "url": "https://github.com/VirendraVerma1/CameraProperties.git",
     "type": "git"
   },
+  "dependencies":
+   {
+        "com.jmr.cameraprop": "https://github.com/VirendraVerma1/CameraProperties.git?path=/Samples~/JMRAdons/CameraProperties"
+   }
   "samples": [
     {
       "displayName": "Camera Properties",
