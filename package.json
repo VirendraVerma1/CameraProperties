@@ -22,7 +22,7 @@
   },
   "dependencies":
    {
-        "com.jmr.cameraprop": "https://github.com/VirendraVerma1/CameraProperties.git?path=/Samples~/JMRAdons/CameraProperties"
+        "com.jmr.camerapropp": "https://github.com/VirendraVerma1/CameraProperties.git?path=/Samples~/JMRAdons/CameraProperties"
    }
   "samples": [
     {
